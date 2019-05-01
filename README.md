@@ -60,5 +60,6 @@ INSERT INTO Boxes(Code,Contents,Value,Warehouse) VALUES('TU55','Papers',90,5);
 9. Reduce the value of all boxes by 15%.
 
 10. Remove all boxes with a value lower than $100.
-
-
+<hr>
+1.5 points.
+Exercise 7 and 9 are incorrect.
